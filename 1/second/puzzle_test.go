@@ -3,7 +3,7 @@ package second
 import (
 	"testing"
 
-	"github.com/malafreniere/aoe2017/1/captcha"
+	"github.com/malafreniere/aoc2017/1/captcha"
 )
 
 func TestExecute(t *testing.T) {
